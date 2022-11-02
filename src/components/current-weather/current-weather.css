@@ -2,7 +2,6 @@
     width: 300px;
     border-radius: 6px;
     box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 30%);
-    /* background-color: #708090; */
     background: rgb(47,49,75);
     background: linear-gradient(90deg, rgba(47,49,75,1) 0%, rgba(71,75,87,1) 81%, rgba(28,45,68,1) 100%);
     color: #fff;
