@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  background-color: #4682B4;
+  background: rgb(47,49,75);
+  background: linear-gradient(90deg, rgba(47,49,75,1) 0%, rgba(71,75,87,1) 81%, rgba(28,45,68,1) 100%);
   font-family: "Roboto", Arial !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -8,5 +9,18 @@ body {
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  monospace;
+}
+
+.footer {
+  color: #fff;
+  background: rgb(47,49,75);
+  background: linear-gradient(90deg, rgba(47,49,75,1) 0%, rgba(71,75,87,1) 81%, rgba(28,45,68,1) 100%);
+  font-size: 13px;
+  font-weight: 400;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
 }
