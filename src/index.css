@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  background-color: #4682B4;
+  background: rgb(47,49,75);
+  background: linear-gradient(90deg, rgba(47,49,75,1) 0%, rgba(71,75,87,1) 81%, rgba(28,45,68,1) 100%);
   font-family: "Roboto", Arial !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
